@@ -1,1 +1,7 @@
+pandas
 scikit-learn
+seaborn
+matplotlib
+kmodes
+prince
+factor_analyzer
